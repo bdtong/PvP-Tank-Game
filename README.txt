@@ -4,7 +4,7 @@ Java Version: JDK 1.8
 
 How to run:
 	1) Create git repo.
-	2) git clone https://github.com/csc413-03-sp18/csc413-03-tankgame-Team15-bdtong.git
+	2) git clone https://github.com/bdtong/PvP-Tank-Game.git
 	3) Set current working directory to "TankGame" folder.
 	4) Run.
 
